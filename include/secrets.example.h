@@ -1,0 +1,10 @@
+#ifndef SECRETS_H
+#define SECRETS_H
+
+#define IO_USERNAME "SEU_USUARIO_ADAFRUIT"
+#define IO_KEY      "SUA_CHAVE_ADAFRUIT"
+
+#define WIFI_SSID   "NOME_DA_REDE_WIFI"
+#define WIFI_PASS   "SENHA_DO_WIFI"
+
+#endif
